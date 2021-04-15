@@ -1,10 +1,16 @@
-### Docker Basic commands
+### Docker Basic commands   ![Docker](https://img.shields.io/badge/-F7F8F9?style=flat-square&logo=Docker)
 
 <h4>Checking Docker Version</h4>
-```docker version```
+
+```
+docker version
+```
 
 <h4>Checking detailed information</h4>
-```docker info```
+
+```
+docker info
+```
 
 <b>Note</b>
 - Docker images can be downloaded from Docker hub using docker commands.
